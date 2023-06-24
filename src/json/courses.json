@@ -1,0 +1,469 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "label": "Web Developer",
+      "slug": "web-developer",
+      "tagline": "Learn to build websites and web apps"
+    },
+    {
+      "id": 2,
+      "label": "Mobile Developer",
+      "slug": "mobile-developer",
+      "tagline": "Learn to build mobile apps"
+    },
+    {
+      "id": 3,
+      "label": "Data Scientist",
+      "slug": "data-scientist",
+      "tagline": "Learn to analyze data"
+    },
+    {
+      "id": 4,
+      "label": "UI/UX Designer",
+      "slug": "ui-ux-designer",
+      "tagline": "Learn to design beautiful user interfaces"
+    },
+    {
+      "id": 5,
+      "label": "DevOps Engineer",
+      "slug": "devops-engineer",
+      "tagline": "Learn to build and deploy software"
+    },
+    {
+      "id": 6,
+      "label": "Photography",
+      "slug": "photography",
+      "tagline": "Learn to capture beautiful moments"
+    },
+    {
+      "id": 7,
+      "label": "Video Editing",
+      "slug": "video-editing",
+      "tagline": "Learn to edit videos"
+    },
+    {
+      "id": 8,
+      "label": "Digital Marketing",
+      "slug": "digital-marketing",
+      "tagline": "Learn to promote products and services"
+    }
+  ],
+  "best_categories": [
+    {
+      "id": 1,
+      "label": "Web Developer",
+      "slug": "web-developer",
+      "tagline": "Learn to build websites and web apps"
+    },
+    {
+      "id": 2,
+      "label": "Mobile Developer",
+      "slug": "mobile-developer",
+      "tagline": "Learn to build mobile apps"
+    },
+    {
+      "id": 3,
+      "label": "Data Scientist",
+      "slug": "data-scientist",
+      "tagline": "Learn to analyze data"
+    },
+    {
+      "id": 4,
+      "label": "UI/UX Designer",
+      "slug": "ui-ux-designer",
+      "tagline": "Learn to design beautiful user interfaces"
+    }
+  ],
+  "courses_list": [
+    {
+      "id": 1,
+      "name": "Web Developer",
+      "slug": "courses/web-developer",
+      "description": "Master the art of web development and unlock limitless possibilities. Dive into the world of coding, design stunning websites, and create immersive user experiences with our Web Developer courses.",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Belajar HTML5",
+          "slug": "/courses/web-developer/belajar-html5",
+          "youtuber": "Web Programming UNPAS",
+          "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
+          "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+                "id": 1,
+                "title": "1. Apa itu HTML5? | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 2,
+                "title": "2. Semantic HTML5? | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 3,
+                "title": "3. Images Elements | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 4,
+                "title": "4. Audio & Video | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 5,
+                "title": "5. Canvas | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 6,
+                "title": "6. SVG | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 7,
+                "title": "7. Form Validation | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 8,
+                "title": "8. Web Storage | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+            },
+            {
+                "id": 9,
+                "title": "9. Accessibility | Belajar HTML5",
+                "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mobile Developer",
+      "slug": "courses/mobile-developer",
+      "description": "Learn to build mobile apps for Android and iOS from scratch. Master the art of mobile app development and unlock limitless possibilities. Dive into the world of coding, design stunning apps, and create immersive user experiences with our Mobile Developer courses.",
+      "courses": []
+    },
+    {
+      "id": 3,
+      "name": "Data Scientist",
+      "slug": "courses/data-scientist",
+      "description": "Learn to analyze data and unlock limitless possibilities. Dive into the world of data science, design stunning data visualizations, and create immersive user experiences with our Data Scientist courses.",
+      "courses": []
+    },
+    {
+      "id": 4,
+      "name": "UI/UX Designer",
+      "slug": "courses/ui-ux-designer",
+      "description": "Learn to design beautiful user interfaces and unlock limitless possibilities. Dive into the world of UI/UX design, design stunning websites and apps, and create immersive user experiences with our UI/UX Designer courses.",
+      "courses": []
+    },
+    {
+      "id": 5,
+      "name": "DevOps Engineer",
+      "slug": "courses/devops-engineer",
+      "description": "Learn to build and deploy software and unlock limitless possibilities. Dive into the world of DevOps, design stunning websites and apps, and create immersive user experiences with our DevOps Engineer courses.",
+      "courses": []
+    },
+    {
+      "id": 6,
+      "name": "Photography",
+      "slug": "courses/photography",
+      "description": "Learn to capture beautiful moments and unlock limitless possibilities. Dive into the world of photography, design stunning websites and apps, and create immersive user experiences with our Photography courses.",
+      "courses": []
+    },
+    {
+      "id": 7,
+      "name": "Video Editing",
+      "slug": "courses/video-editing",
+      "description": "Learn to edit videos and unlock limitless possibilities. Dive into the world of video editing, design stunning websites and apps, and create immersive user experiences with our Video Editing courses.",
+      "courses": []
+    },
+    {
+      "id": 8,
+      "name": "Digital Marketing",
+      "slug": "courses/digital-marketing",
+      "description": "Learn to promote products and services and unlock limitless possibilities. Dive into the world of digital marketing, design stunning websites and apps, and create immersive user experiences with our Digital Marketing courses.",
+      "courses": []
+    }
+  ],
+  "selected_courses": [
+    {
+      "id": 1,
+      "title": "Belajar HTML5",
+      "slug": "/courses/web-developer/belajar-html5",
+      "youtuber": "Web Programming UNPAS",
+      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+            "id": 1,
+            "title": "1. Apa itu HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 2,
+            "title": "2. Semantic HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 3,
+            "title": "3. Images Elements | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 4,
+            "title": "4. Audio & Video | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 5,
+            "title": "5. Canvas | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 6,
+            "title": "6. SVG | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 7,
+            "title": "7. Form Validation | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 8,
+            "title": "8. Web Storage | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 9,
+            "title": "9. Accessibility | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Belajar HTML5",
+      "slug": "/courses/web-developer/belajar-html5",
+      "youtuber": "Web Programming UNPAS",
+      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+            "id": 1,
+            "title": "1. Apa itu HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 2,
+            "title": "2. Semantic HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 3,
+            "title": "3. Images Elements | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 4,
+            "title": "4. Audio & Video | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 5,
+            "title": "5. Canvas | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 6,
+            "title": "6. SVG | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 7,
+            "title": "7. Form Validation | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 8,
+            "title": "8. Web Storage | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 9,
+            "title": "9. Accessibility | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Belajar HTML5",
+      "slug": "/courses/web-developer/belajar-html5",
+      "youtuber": "Web Programming UNPAS",
+      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+            "id": 1,
+            "title": "1. Apa itu HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 2,
+            "title": "2. Semantic HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 3,
+            "title": "3. Images Elements | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 4,
+            "title": "4. Audio & Video | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 5,
+            "title": "5. Canvas | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 6,
+            "title": "6. SVG | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 7,
+            "title": "7. Form Validation | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 8,
+            "title": "8. Web Storage | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 9,
+            "title": "9. Accessibility | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Belajar HTML5",
+      "slug": "/courses/web-developer/belajar-html5",
+      "youtuber": "Web Programming UNPAS",
+      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+            "id": 1,
+            "title": "1. Apa itu HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 2,
+            "title": "2. Semantic HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 3,
+            "title": "3. Images Elements | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 4,
+            "title": "4. Audio & Video | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 5,
+            "title": "5. Canvas | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 6,
+            "title": "6. SVG | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 7,
+            "title": "7. Form Validation | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 8,
+            "title": "8. Web Storage | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 9,
+            "title": "9. Accessibility | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Belajar HTML5",
+      "slug": "/courses/web-developer/belajar-html5",
+      "youtuber": "Web Programming UNPAS",
+      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+            "id": 1,
+            "title": "1. Apa itu HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 2,
+            "title": "2. Semantic HTML5? | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 3,
+            "title": "3. Images Elements | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 4,
+            "title": "4. Audio & Video | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 5,
+            "title": "5. Canvas | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 6,
+            "title": "6. SVG | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 7,
+            "title": "7. Form Validation | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 8,
+            "title": "8. Web Storage | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+        },
+        {
+            "id": 9,
+            "title": "9. Accessibility | Belajar HTML5",
+            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+        }
+      ]
+    }
+  ]
+}
