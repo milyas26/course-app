@@ -20,7 +20,7 @@ const CourseList = () => {
         {courseData.description}
       </p>
       {courseData.courses.length < 1 ? (
-        <div className="text-center py-6">Belum ada Course</div>
+        <div className="text-center flex items-center justify-center py-6 min-h-[60vh]">Belum ada Course</div>
       ) : (
         <div className="courses grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 md:gap-4">
             {courseData.courses.map((video: any, index: any) => (
