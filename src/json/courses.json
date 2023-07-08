@@ -29,24 +29,6 @@
       "label": "DevOps Engineer",
       "slug": "devops-engineer",
       "tagline": "Learn to build and deploy software"
-    },
-    {
-      "id": 6,
-      "label": "Photography",
-      "slug": "photography",
-      "tagline": "Learn to capture beautiful moments"
-    },
-    {
-      "id": 7,
-      "label": "Video Editing",
-      "slug": "video-editing",
-      "tagline": "Learn to edit videos"
-    },
-    {
-      "id": 8,
-      "label": "Digital Marketing",
-      "slug": "digital-marketing",
-      "tagline": "Learn to promote products and services"
     }
   ],
   "best_categories": [
@@ -91,49 +73,189 @@
           "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
           "videos": [
             {
-                "id": 1,
-                "title": "1. Apa itu HTML5? | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
+              "id": 1,
+              "title": "1. Apa itu HTML5? | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 2,
-                "title": "2. Semantic HTML5? | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
+              "id": 2,
+              "title": "2. Semantic HTML5? | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 3,
-                "title": "3. Images Elements | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
+              "id": 3,
+              "title": "3. Images Elements | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 4,
-                "title": "4. Audio & Video | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
+              "id": 4,
+              "title": "4. Audio & Video | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 5,
-                "title": "5. Canvas | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
+              "id": 5,
+              "title": "5. Canvas | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 6,
-                "title": "6. SVG | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
+              "id": 6,
+              "title": "6. SVG | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 7,
-                "title": "7. Form Validation | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
+              "id": 7,
+              "title": "7. Form Validation | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 8,
-                "title": "8. Web Storage | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
+              "id": 8,
+              "title": "8. Web Storage | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
             },
             {
-                "id": 9,
-                "title": "9. Accessibility | Belajar HTML5",
-                "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+              "id": 9,
+              "title": "9. Accessibility | Belajar HTML5",
+              "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Tutorial HTML5 CSS Boostrap 5",
+          "slug": "/courses/web-developer/belajar-html5-bootstrap",
+          "youtuber": "BuildWithAngga",
+          "thumbnail": "https://i.ytimg.com/vi/jv9_VWVg6hg/maxresdefault.jpg",
+          "avatar": "https://yt3.ggpht.com/C3C2WTrJ6nQerQcpGBT-O-wrBR_fgClA6ft_HQlPtskKKliC5_OvC0zxD5i3MFf_kkMKoFqYkg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "1) Projek Website Yang Dibangun | Tutorial HTML CSS Bootstrap",
+              "link": "https://www.youtube.com/watch?v=jv9_VWVg6hg"
+            },
+            {
+              "id": 2,
+              "title": "2) Color Palette Design Style | Tutorial HTML CSS Bootstrap 5",
+              "link": "https://www.youtube.com/watch?v=HUl-ezgdIXM"
+            },
+            {
+              "id": 3,
+              "title": "3) Variable CSS Color Palette | Tutorial HTML CSS Bootstrap 5",
+              "link": "https://www.youtube.com/watch?v=HcDE-SbKkm4&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 4,
+              "title": "4) Import CSS Bootstrap dan Google Fonts | Tutorial HTML CSS Bootstrap",
+              "link": "https://www.youtube.com/watch?v=-edlZ-Fv-4c&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 5,
+              "title": "5) Custom Typography dan Navbar | Tutorial HTML CSS Bootstrap",
+              "link": "https://www.youtube.com/watch?v=xEB5Xt-6pfw&ab_channel=BuildWithAngga"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Full React Tutorial",
+          "slug": "/courses/web-developer/full-react-tutorial",
+          "youtuber": "The Net Ninja",
+          "thumbnail": "https://i.ytimg.com/vi/j942wKiXFu8/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaRZ_YQDWsp_xli4C-dj0ArYih76vbn_Ck-wg8Dz8w=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Full React Tutorial #1 - Introduction",
+              "link": "https://www.youtube.com/watch?v=j942wKiXFu8&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 2,
+              "title": "Full React Tutorial #2 - Creating a React Application",
+              "link": "https://www.youtube.com/watch?v=kVeOpcw4GWY&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 3,
+              "title": "Full React Tutorial #3 - Components & Templates",
+              "link": "https://www.youtube.com/watch?v=9D1x7-2FmTA&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 4,
+              "title": "Full React Tutorial #4 - Dynamic Values in Templates",
+              "link": "https://www.youtube.com/watch?v=pnhO8UaCgxg&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 5,
+              "title": "Full React Tutorial #5 - Multiple Components",
+              "link": "https://www.youtube.com/watch?v=0sSYmRImgRY&ab_channel=TheNetNinja"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Tailwind Just in Time Tutorial",
+          "slug": "/courses/web-developer/tailwind-just-in-time-tutorial",
+          "youtuber": "The Net Ninja",
+          "thumbnail": "https://i.ytimg.com/vi/aQS7kaje-24/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaRZ_YQDWsp_xli4C-dj0ArYih76vbn_Ck-wg8Dz8w=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Tailwind Just in Time Tutorial #1 - Introduction",
+              "link": "https://www.youtube.com/watch?v=aQS7kaje-24&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 2,
+              "title": "Tailwind Just in Time Tutorial #2 - Using the Just in Time Compiler",
+              "link": "https://www.youtube.com/watch?v=mP2TPWZRSmk&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 3,
+              "title": "Tailwind Just in Time Tutorial #3 - Extra Variants",
+              "link": "https://www.youtube.com/watch?v=DduPHtznQ2o&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 4,
+              "title": "Tailwind Just in Time Tutorial #4 - Arbitrary Values",
+              "link": "https://www.youtube.com/watch?v=4gEH1h5C-Tc&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 5,
+              "title": "Tailwind Just in Time Tutorial #5 - Tailwind JIT with Next.js",
+              "link": "https://www.youtube.com/watch?v=D3Kz2bOQR5E&ab_channel=TheNetNinja"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Next.js & Contentful Site Build Tutorial",
+          "slug": "/courses/web-developer/nextjs-contentful-site-build-tutorial",
+          "youtuber": "The Net Ninja",
+          "thumbnail": "https://i.ytimg.com/vi/m9mNsYJbkNg/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaRZ_YQDWsp_xli4C-dj0ArYih76vbn_Ck-wg8Dz8w=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Next.js & Contentful Site Build Tutorial #1 - Intro & Setup",
+              "link": "https://www.youtube.com/watch?v=m9mNsYJbkNg&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 2,
+              "title": "Next.js & Contentful Site Build Tutorial #2 - Contentful Models",
+              "link": "https://www.youtube.com/watch?v=otLsndcnqKM&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 3,
+              "title": "Next.js & Contentful Site Build Tutorial #3 - Contentful Client",
+              "link": "https://www.youtube.com/watch?v=sougdtlQlEk&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 4,
+              "title": "Next.js & Contentful Site Build Tutorial #4 - Outputting Recipe Data",
+              "link": "https://www.youtube.com/watch?v=r-Xn1EQD_aU&ab_channel=TheNetNinja"
+            },
+            {
+              "id": 5,
+              "title": "Next.js & Contentful Site Build Tutorial #5 - Using Images from Contentful",
+              "link": "https://www.youtube.com/watch?v=Mdx3ywlnzk8&ab_channel=TheNetNinja"
             }
           ]
         }
@@ -144,14 +266,331 @@
       "name": "Mobile Developer",
       "slug": "courses/mobile-developer",
       "description": "Learn to build mobile apps for Android and iOS from scratch. Master the art of mobile app development and unlock limitless possibilities. Dive into the world of coding, design stunning apps, and create immersive user experiences with our Mobile Developer courses.",
-      "courses": []
+      "courses": [
+        {
+          "id": 1,
+          "title": "Belajar Java Bahasa Indonesia [Dasar] ",
+          "slug": "/courses/mobile-developer/belajar-java-bahasa-indonesia",
+          "youtuber": "Kelas terbuka",
+          "thumbnail": "https://i.ytimg.com/vi/uHyfQV0kbgo/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaQ1o0r6kO4r52CohmoB6zCT0zrsFmwrPzZkRhgXZA=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Belajar Java [Dasar] - 01 - Apa itu Java?",
+              "link": "https://www.youtube.com/watch?v=uHyfQV0kbgo"
+            },
+            {
+              "id": 2,
+              "title": "Belajar Java [Dasar] - 02 - Cara Kerja Java",
+              "link": "https://www.youtube.com/watch?v=OrgFwUl2tzQ"
+            },
+            {
+              "id": 3,
+              "title": "Belajar Java [Dasar] - 03a - Setup IDE IntelliJ IDEA Windows",
+              "link": "https://www.youtube.com/watch?v=-09UiNKwpok&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=3"
+            },
+            {
+              "id": 4,
+              "title": "Belajar Java [Dasar] - 03b - Setup IDE Netbeans Windows",
+              "link": "https://www.youtube.com/watch?v=B1cDwfxs1VM&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=4"
+            },
+            {
+              "id": 5,
+              "title": "Belajar Java [Dasar] - 03c - Setup IDE Eclipse Windows",
+              "link": "https://www.youtube.com/watch?v=LwWzmEIibwM&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=5"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Tutorial React Native Dasar",
+          "slug": "/courses/mobile-developer/tutorial-react-native-dasar",
+          "youtuber": "Wahidev Academy",
+          "thumbnail": "https://i.ytimg.com/vi/iZ1iMR6_Mb8/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaTqWYRVYZo2a0iHhCn8fJ-N2mvcZ3LrTowwyFXu=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Tutorial React Native Dasar : 1. Pengenalan React Native",
+              "link": "https://www.youtube.com/watch?v=iZ1iMR6_Mb8&list=PLIan8aHxsPj33EE-3KqsvkAeQxHyQ4DVt&ab_channel=WahidevAcademy"
+            },
+            {
+              "id": 2,
+              "title": "Tutorial React Native Dasar : 2. Install React Native Di Windows",
+              "link": "https://www.youtube.com/watch?v=_0HqJaHTigk&ab_channel=WahidevAcademy"
+            },
+            {
+              "id": 3,
+              "title": "Tutorial React Native Dasar : 3. Mengenal Component",
+              "link": "https://www.youtube.com/watch?v=f639EP4zJPQ&ab_channel=WahidevAcademy"
+            },
+            {
+              "id": 4,
+              "title": "Tutorial React Native Dasar : 4. Belajar Core Component",
+              "link": "https://www.youtube.com/watch?v=56DZa-fLPaw&ab_channel=WahidevAcademy"
+            },
+            {
+              "id": 5,
+              "title": "Tutorial React Native Dasar : 5. Belajar Desain Tampilan dan Flexbox",
+              "link": "https://www.youtube.com/watch?v=0MPJbUcZpgI&ab_channel=WahidevAcademy"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Belajar Kotlin Dasar untuk Pemula",
+          "slug": "/courses/mobile-developer/belajar-kotlin-dasar-untuk-pemula",
+          "youtuber": "Programmer Zaman Now",
+          "thumbnail": "https://i.ytimg.com/vi/6dSNbskzlz4/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaT4aIvvoKecl9ZA-P2oXVbq7vK753uLhkjknaKVLg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Belajar Kotlin Dasar - 1 Pengenalan Kotlin",
+              "link": "https://www.youtube.com/watch?v=6dSNbskzlz4&list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa&ab_channel=ProgrammerZamanNow"
+            },
+            {
+              "id": 2,
+              "title": "Belajar Kotlin Dasar - 2 Program Hello World",
+              "link": "https://www.youtube.com/watch?v=DhRIBJ6q8Ks&ab_channel=ProgrammerZamanNow"
+            },
+            {
+              "id": 3,
+              "title": "Belajar Kotlin Dasar - 3 Tipe Data Number",
+              "link": "https://www.youtube.com/watch?v=d_ip0wTcKvw&ab_channel=ProgrammerZamanNow"
+            },
+            {
+              "id": 4,
+              "title": "Belajar Kotlin Dasar - 4 Tipe Data Character",
+              "link": "https://www.youtube.com/watch?v=F1UqaaiPnJM&ab_channel=ProgrammerZamanNow"
+            },
+            {
+              "id": 5,
+              "title": "Belajar Kotlin Dasar - 5 Tipe Data Boolean",
+              "link": "https://www.youtube.com/watch?v=kNCsS40aCv8&ab_channel=ProgrammerZamanNow"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "TUTORIAL FLUTTER INDONESIA [ NEW 2021 ]",
+          "slug": "/courses/mobile-developer/tutorial-flutter-indonesia",
+          "youtuber": "Kuldii Project",
+          "thumbnail": "https://i.ytimg.com/vi/epRWFH47xCI/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaT7HZCiUdWDUCmBzV-7m281nPNiinLzLObWdmsJ=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "FLUTTER 01 Pengenalan Flutter (Tutorial Flutter Bahasa Indonesia)",
+              "link": "https://www.youtube.com/watch?v=epRWFH47xCI&list=PL7jdfftn7HKsfTtv8FOaTbLIf7feiQTRu&ab_channel=KuldiiProject"
+            },
+            {
+              "id": 2,
+              "title": "FLUTTER 02 Dart Basic, Extends, Mixin (Tutorial Flutter Bahasa Indonesia)",
+              "link": "https://www.youtube.com/watch?v=DUo01ekCn8Y&ab_channel=KuldiiProject"
+            },
+            {
+              "id": 3,
+              "title": "FLUTTER 03 Stateless vs Stateful (Tutorial Flutter Bahasa Indonesia)",
+              "link": "https://www.youtube.com/watch?v=8VQraXro3qc&ab_channel=KuldiiProject"
+            },
+            {
+              "id": 4,
+              "title": "FLUTTER 04 Widget Dasar (Tutorial Flutter Bahasa Indonesia)",
+              "link": "https://www.youtube.com/watch?v=qxx1KX43R-4&ab_channel=KuldiiProject"
+            },
+            {
+              "id": 5,
+              "title": "FLUTTER 05 Text Widget (Tutorial Flutter Bahasa Indonesia)",
+              "link": "https://www.youtube.com/watch?v=-RrnIax4Br8&ab_channel=KuldiiProject"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Data Scientist",
       "slug": "courses/data-scientist",
       "description": "Learn to analyze data and unlock limitless possibilities. Dive into the world of data science, design stunning data visualizations, and create immersive user experiences with our Data Scientist courses.",
-      "courses": []
+      "courses": [
+        {
+          "id": 1,
+          "title": "Belajar Data Science Untuk Pemula",
+          "slug": "/courses/data-scientist/belajar-data-science-untuk-pemula",
+          "youtuber": "Informatika UHB Purwokerto",
+          "thumbnail": "https://i.ytimg.com/vi/_ozeKsOtqHI/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/xVGWQbe0PLDQWPiMeMN74QO1MGgZDciezGGXo5w7PQA-NWZS1mq2_OSX7q2F38zSs9PHEp9Rzg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Apa Itu Data Science",
+              "link": "https://youtu.be/_ozeKsOtqHI"
+            },
+            {
+              "id": 2,
+              "title": "Tutorial Python Dasar Hello World dan Kaggle",
+              "link": "https://youtu.be/sJzO99kRmj8"
+            },
+            {
+              "id": 3,
+              "title": "Tutorial Python Dasar Variable dan Types",
+              "link": "https://youtu.be/kFkE_15n7f4"
+            },
+            {
+              "id": 4,
+              "title": "Python List",
+              "link": "https://youtu.be/3ObZ7fDLG_c"
+            },
+            {
+              "id": 5,
+              "title": "Tutorial Python Access List Items",
+              "link": "https://youtu.be/V67FQH6zAyE"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Data Science Full Course",
+          "slug": "/courses/data-scientist/data-science-full-cource",
+          "youtuber": "Simplilearn",
+          "thumbnail": "https://i.ytimg.com/vi/X3paOmcrTjQ/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/7q9t5rjeujEZYqY1xMLn0mvT4Zc6MaZBYgtseDL2_Zh42AOhMze8ep7BUKdR5FnxytMy3csj=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Data Science In 5 Minutes | Data Science For Beginners | What Is Data Science? | Simplilearn",
+              "link": "https://youtu.be/X3paOmcrTjQ"
+            },
+            {
+              "id": 2,
+              "title": "What is Data Science? | Introduction to Data Science | Data Science for Beginners | Simplilearn",
+              "link": "https://youtu.be/KxryzSO1Fjs"
+            },
+            {
+              "id": 3,
+              "title": "Data Science Tutorial | Data Science for Beginners | Data Science with Python Tutorial | Simplilearn",
+              "link": "https://youtu.be/jNeUBWrrRsQ"
+            },
+            {
+              "id": 4,
+              "title": "Statistics For Data Science | Data Science Tutorial | Simplilearn",
+              "link": "https://youtu.be/Lv0xcdeXaGU"
+            },
+            {
+              "id": 5,
+              "title": "Data Science For Non-Programmers | Data Science For Non-Technical Background | Simplilearn",
+              "link": "https://youtu.be/ei4fAZc8T6g"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Data Science Tutorial Videos",
+          "slug": "/courses/data-scientist/data-science-tutorial-videos",
+          "youtuber": "edureka!",
+          "thumbnail": "https://i.ytimg.com/vi/oT87O0VQRi8/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Statistics For Data Science | Statistics Using R Programming Language | Hypothesis Testing | Edureka",
+              "link": "https://youtu.be/oT87O0VQRi8"
+            },
+            {
+              "id": 2,
+              "title": "SQL For Data Science Tutorial | Learn SQL Database For Data Science | Edureka",
+              "link": "https://youtu.be/sTiWTx0ifaM"
+            },
+            {
+              "id": 3,
+              "title": "Who is a Data Scientist? | How to become a Data Scientist? | Data Science Course | Edureka",
+              "link": "https://youtu.be/M3m52htoNns"
+            },
+            {
+              "id": 4,
+              "title": "Data Scientist Roles and Responsibilities | Data Scientist Career | Data Science Training | Edureka",
+              "link": "https://youtu.be/nh4RgxaiKgI"
+            },
+            {
+              "id": 5,
+              "title": "Data Science Projects Tutorial | Data Science Projects In R | Data Science Training | Edureka",
+              "link": "https://youtu.be/FQdIV437CRU"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Data Science Masterclass Indonesia - Belajar Data Science Dengan Bahasa R",
+          "slug": "/courses/data-scientist/data-science-masterclass-indonesia",
+          "youtuber": "Mega Bagus Herlambang",
+          "thumbnail": "https://i.ytimg.com/vi/rcwlltbsl7k/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaQ0vWxVU1eTEerQGBoZmHgrUE81bfrghNxngwrEQg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Belajar Data Science (Kurikulum) #01 - Data Science Masterclass Menggunakan R",
+              "link": "https://youtu.be/rcwlltbsl7k"
+            },
+            {
+              "id": 2,
+              "title": "Cara Menginstall R di Windows dan Mac #02 - Data Science Masterclass Menggunakan R",
+              "link": "https://youtu.be/yByyAFHxH1U"
+            },
+            {
+              "id": 3,
+              "title": "Mengenal Tipe Data di Statistik dan Praktek R #03 - Data Science Masterclass Menggunakan R",
+              "link": "https://youtu.be/Q_Nw0UxjS3U"
+            },
+            {
+              "id": 4,
+              "title": "Belajar Dasar-dasar Bahasa R (LENGKAP) #04 - Data Science Masterclass Menggunakan R",
+              "link": "https://youtu.be/uO9SDhW0PgY"
+            },
+            {
+              "id": 5,
+              "title": "Belajar Matriks di R (LENGKAP) #05 - Data Science Masterclass Menggunakan R",
+              "link": "https://youtu.be/qiLTYtHQ6uk"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Data Science & Machine Learning Projects",
+          "slug": "/courses/data-scientist/data-science-machine-learning-projects",
+          "youtuber": "codebasics",
+          "thumbnail": "https://i.ytimg.com/vi/rdfbcdP75KI/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/Gfb034LSTAvgWjlKObV-QauI_IygXRNYOfvsS8cQl_C8t85LKZ-da24NkVAod8_SYl6N8dNgfg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Machine Learning & Data Science Project - 1 : Introduction (Real Estate Price Prediction Project)",
+              "link": "https://youtu.be/rdfbcdP75KI"
+            },
+            {
+              "id": 2,
+              "title": "Machine Learning & Data Science Project - 2 : Data Cleaning (Real Estate Price Prediction Project)",
+              "link": "https://youtu.be/_drqJ9SFCgU"
+            },
+            {
+              "id": 3,
+              "title": "Machine Learning & Data Science Project - 3 : Feature Engineering (Real Estate Price Prediction)",
+              "link": "https://youtu.be/gMoJIH0prL4"
+            },
+            {
+              "id": 4,
+              "title": "Machine Learning & Data Science Project - 4 : Outlier Removal (Real Estate Price Prediction Project)",
+              "link": "https://youtu.be/cbqZa_1vzcg"
+            },
+            {
+              "id": 5,
+              "title": "Machine Learning & Data Science Project - 5 : Model Building (Real Estate Price Prediction Project)",
+              "link": "https://youtu.be/oCiRv94GMEc"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 4,
@@ -165,28 +604,148 @@
       "name": "DevOps Engineer",
       "slug": "courses/devops-engineer",
       "description": "Learn to build and deploy software and unlock limitless possibilities. Dive into the world of DevOps, design stunning websites and apps, and create immersive user experiences with our DevOps Engineer courses.",
-      "courses": []
-    },
-    {
-      "id": 6,
-      "name": "Photography",
-      "slug": "courses/photography",
-      "description": "Learn to capture beautiful moments and unlock limitless possibilities. Dive into the world of photography, design stunning websites and apps, and create immersive user experiences with our Photography courses.",
-      "courses": []
-    },
-    {
-      "id": 7,
-      "name": "Video Editing",
-      "slug": "courses/video-editing",
-      "description": "Learn to edit videos and unlock limitless possibilities. Dive into the world of video editing, design stunning websites and apps, and create immersive user experiences with our Video Editing courses.",
-      "courses": []
-    },
-    {
-      "id": 8,
-      "name": "Digital Marketing",
-      "slug": "courses/digital-marketing",
-      "description": "Learn to promote products and services and unlock limitless possibilities. Dive into the world of digital marketing, design stunning websites and apps, and create immersive user experiences with our Digital Marketing courses.",
-      "courses": []
+      "courses": [
+        {
+          "id": 1,
+          "title": "About DevOps",
+          "slug": "/courses/devops-engineer/about-devops",
+          "youtuber": "IR 01",
+          "thumbnail": "https://i.ytimg.com/vi/wGLvCaBk1b0/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/csO9iKJFfDg66-A7pUpXJ-nGji9z63ao4yjQfBqUfgDDf3ttSHracYfDaGMs8n4N6Pb2OOmjrg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Cara Menjadi DevOps Engineer 1",
+              "link": "https://youtu.be/wGLvCaBk1b0"
+            },
+            {
+              "id": 2,
+              "title": "Cara Menjadi DevOps Engineer 2",
+              "link": "https://youtu.be/3yaFV04Jp1g"
+            },
+            {
+              "id": 3,
+              "title": "Cara Menjadi DevOps Engineer 3-Linux Basic Command",
+              "link": "https://youtu.be/nfcyiGiRMxo"
+            },
+            {
+              "id": 4,
+              "title": "Cara Menjadi DevOps Engineer 4- Linux Text Stream",
+              "link": "https://youtu.be/ixf0asKCPTk"
+            },
+            {
+              "id": 5,
+              "title": "Menjadi Devops Engineer 5 - Ensuring Data Intergrity",
+              "link": "https://youtu.be/8x1df9Ukdr8 "
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Belajar Kubernetes Untuk Pemula",
+          "slug": "/courses/devops-engineer/belajar-kubernets-untuk-pemula",
+          "youtuber": "Programmer Zaman Now",
+          "thumbnail": "https://i.ytimg.com/vi/DgkOjJf5M6I/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaT4aIvvoKecl9ZA-P2oXVbq7vK753uLhkjknaKVLg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Belajar Kubernetes - 1 Sebelum Belajar Kubernetes",
+              "link": "https://www.youtube.com/watch?v=DgkOjJf5M6I&ab_channel=ProgrammerZamanNow"
+            },
+            {
+              "id": 2,
+              "title": "Belajar Kubernetes - 2 Pengenalan Kubernetes",
+              "link": "https://youtu.be/58BtdUq-4QU"
+            },
+            {
+              "id": 3,
+              "title": "Belajar Kubernetes - 3 Arsitektur Kubernetes",
+              "link": "https://youtu.be/LcJi3WCR_T8"
+            },
+            {
+              "id": 4,
+              "title": "Belajar Kubernetes - 4 Menginstall Kubernetes di Local",
+              "link": "https://youtu.be/jfaiUr5Yt9E"
+            },
+            {
+              "id": 5,
+              "title": "Belajar Kubernetes - 5 Node",
+              "link": "https://youtu.be/oXEvDoyzqY8 "
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Learn DevOps Step by Step | DevOps training videos [2022 Updated]",
+          "slug": "/courses/devops-engineer/learn-dev-ops-step-by-step",
+          "youtuber": "Simplilearn",
+          "thumbnail": "https://i.ytimg.com/vi/y3aJr6Am30M/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/7q9t5rjeujEZYqY1xMLn0mvT4Zc6MaZBYgtseDL2_Zh42AOhMze8ep7BUKdR5FnxytMy3csj=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "DevOps Tutorial For Beginners - 1| DevOps Tutorial ",
+              "link": "https://www.youtube.com/watch?v=y3aJr6Am30M&ab_channel=Simplilearn"
+            },
+            {
+              "id": 2,
+              "title": "DevOps Tutorial For Beginner - 2| Docker Tutorial For Beginners",
+              "link": "https://youtu.be/wRBdx-9wJoU"
+            },
+            {
+              "id": 3,
+              "title": "DevOps Tutorial For Beginner - 3| Object Relational Mapping",
+              "link": "https://youtu.be/V3WhO2rBak4 "
+            },
+            {
+              "id": 4,
+              "title": "DevOps Full Course | Learn DevOps 10 hours",
+              "link": "https://youtu.be/5KtRF4NuUWE"
+            },
+            {
+              "id": 5,
+              "title": "DevOps and Computing In 10 minutes | Introduction to Cloud Computing  and DevOps ",
+              "link": "https://youtu.be/fHvmIP7Gy38 "
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "DevOps Concept Explained",
+          "slug": "/courses/devops-engineer/dev-ops-concept-explained",
+          "youtuber": "TechWorld with Nana",
+          "thumbnail": "https://i.ytimg.com/vi/0yWAtQ6wYNM/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "What is DevOps? Really Understand It",
+              "link": "https://youtu.be/0yWAtQ6wYNM"
+            },
+            {
+              "id": 2,
+              "title": "What is DevSecOps? DevSecOps explained in 8mins",
+              "link": "https://youtu.be/nrhxNNH5lt0"
+            },
+            {
+              "id": 3,
+              "title": "What is GitOps, How GitOps works and Why it's so useful",
+              "link": "https://youtu.be/f5EpcWp0THw "
+            },
+            {
+              "id": 4,
+              "title": "Hybrid Cloud and Multicloud | Why Are Companies Adopting it?",
+              "link": "https://youtu.be/qkj5W98Xdvw"
+            },
+            {
+              "id": 5,
+              "title": "What is Infrastructure as Code? Difference of Infrastructure as Code Tools",
+              "link": "https://youtu.be/POPP2WTJ8es "
+            }
+          ]
+        }
+      ]
     }
   ],
   "selected_courses": [
@@ -196,274 +755,31 @@
       "slug": "/courses/web-developer/belajar-html5",
       "youtuber": "Web Programming UNPAS",
       "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
-      "videos": [
-        {
-            "id": 1,
-            "title": "1. Apa itu HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 2,
-            "title": "2. Semantic HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 3,
-            "title": "3. Images Elements | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 4,
-            "title": "4. Audio & Video | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 5,
-            "title": "5. Canvas | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 6,
-            "title": "6. SVG | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 7,
-            "title": "7. Form Validation | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 8,
-            "title": "8. Web Storage | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 9,
-            "title": "9. Accessibility | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
-        }
-      ]
+      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 1,
-      "title": "Belajar HTML5",
-      "slug": "/courses/web-developer/belajar-html5",
-      "youtuber": "Web Programming UNPAS",
-      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
-      "videos": [
-        {
-            "id": 1,
-            "title": "1. Apa itu HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 2,
-            "title": "2. Semantic HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 3,
-            "title": "3. Images Elements | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 4,
-            "title": "4. Audio & Video | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 5,
-            "title": "5. Canvas | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 6,
-            "title": "6. SVG | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 7,
-            "title": "7. Form Validation | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 8,
-            "title": "8. Web Storage | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 9,
-            "title": "9. Accessibility | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
-        }
-      ]
+      "title": "Belajar Java Bahasa Indonesia [Dasar] ",
+      "slug": "/courses/mobile-developer/belajar-java-bahasa-indonesia",
+      "youtuber": "Kelas terbuka",
+      "thumbnail": "https://i.ytimg.com/vi/uHyfQV0kbgo/sddefault.jpg",
+      "avatar": "https://yt3.ggpht.com/ytc/AOPolaQ1o0r6kO4r52CohmoB6zCT0zrsFmwrPzZkRhgXZA=s88-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": 1,
-      "title": "Belajar HTML5",
-      "slug": "/courses/web-developer/belajar-html5",
-      "youtuber": "Web Programming UNPAS",
-      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
-      "videos": [
-        {
-            "id": 1,
-            "title": "1. Apa itu HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 2,
-            "title": "2. Semantic HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 3,
-            "title": "3. Images Elements | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 4,
-            "title": "4. Audio & Video | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 5,
-            "title": "5. Canvas | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 6,
-            "title": "6. SVG | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 7,
-            "title": "7. Form Validation | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 8,
-            "title": "8. Web Storage | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 9,
-            "title": "9. Accessibility | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
-        }
-      ]
+      "id": 2,
+      "title": "Data Science Full Course",
+      "slug": "/courses/data-scientist/data-science-full-cource",
+      "youtuber": "Simplilearn",
+      "thumbnail": "https://i.ytimg.com/vi/X3paOmcrTjQ/sddefault.jpg",
+      "avatar": "https://yt3.ggpht.com/7q9t5rjeujEZYqY1xMLn0mvT4Zc6MaZBYgtseDL2_Zh42AOhMze8ep7BUKdR5FnxytMy3csj=s88-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": 1,
-      "title": "Belajar HTML5",
-      "slug": "/courses/web-developer/belajar-html5",
-      "youtuber": "Web Programming UNPAS",
-      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
-      "videos": [
-        {
-            "id": 1,
-            "title": "1. Apa itu HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 2,
-            "title": "2. Semantic HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 3,
-            "title": "3. Images Elements | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 4,
-            "title": "4. Audio & Video | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 5,
-            "title": "5. Canvas | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 6,
-            "title": "6. SVG | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 7,
-            "title": "7. Form Validation | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 8,
-            "title": "8. Web Storage | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 9,
-            "title": "9. Accessibility | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "title": "Belajar HTML5",
-      "slug": "/courses/web-developer/belajar-html5",
-      "youtuber": "Web Programming UNPAS",
-      "thumbnail": "https://i3.ytimg.com/vi/Q2VqCG13ejA/maxresdefault.jpg",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqMMm5I0WCkUL3tq4OewyBuGwOupPzN3HcSmJtxCMA=s176-c-k-c0x00ffffff-no-rj",
-      "videos": [
-        {
-            "id": 1,
-            "title": "1. Apa itu HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=Q2VqCG13ejA&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 2,
-            "title": "2. Semantic HTML5? | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=o3m15BWi2HM&t=148s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 3,
-            "title": "3. Images Elements | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=9g1Zz83FXyc&t=14s&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 4,
-            "title": "4. Audio & Video | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=SQMruNuafHk&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 5,
-            "title": "5. Canvas | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=gRrM9TBnRYE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 6,
-            "title": "6. SVG | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=qfn67VjdgZE&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 7,
-            "title": "7. Form Validation | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ZDxGMTO7O3g&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 8,
-            "title": "8. Web Storage | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=T-a7tX0tCuQ&ab_channel=WebProgrammingUNPAS"
-        },
-        {
-            "id": 9,
-            "title": "9. Accessibility | Belajar HTML5",
-            "link": "https://www.youtube.com/watch?v=ELqsF3rD920&t=549s&ab_channel=WebProgrammingUNPAS"
-        }
-      ]
+      "id": 3,
+      "title": "Full React Tutorial",
+      "slug": "/courses/web-developer/full-react-tutorial",
+      "youtuber": "The Net Ninja",
+      "thumbnail": "https://i.ytimg.com/vi/j942wKiXFu8/sddefault.jpg",
+      "avatar": "https://yt3.ggpht.com/ytc/AOPolaRZ_YQDWsp_xli4C-dj0ArYih76vbn_Ck-wg8Dz8w=s88-c-k-c0x00ffffff-no-rj"
     }
   ]
 }

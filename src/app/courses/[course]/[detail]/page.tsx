@@ -4,9 +4,8 @@ import React from "react";
 import videoData from "../../../../json/courses.json";
 import { useParams } from "next/navigation";
 import { Avatar, Card } from "flowbite-react";
-import dynamic from 'next/dynamic';
-const ReactPlayer = dynamic(() => import('react-player/lazy'), { ssr: false });
-
+import dynamic from "next/dynamic";
+const ReactPlayer = dynamic(() => import("react-player/lazy"), { ssr: false });
 
 const Detail = () => {
   const { course, detail } = useParams();
@@ -32,13 +31,12 @@ const Detail = () => {
     }
   }, []);
 
-
   return (
     <main className="px-2 md:px-4">
-      <div className="grid grid-cols-12 gap-4">
-        <Card className="col-span-3 p-4">
+      <div className="flex flex-col md:grid md:grid-cols-12 gap-4 items-start">
+        <Card className="col-span-3 md:p-4 order-1 md:order-none">
           <div className="tutor mb-4">
-            <h1 className="font-semibold text-2xl mb-2 bg-blue-500 text-white max-w-full text-center py-1 rounded">
+            <h1 className="font-semibold text-lg md:text-2xl mb-2 bg-blue-100 text-dark max-w-full py-1 px-2 rounded">
               {courseData.title}
             </h1>
             <Avatar img={courseData.avatar} rounded className="justify-start">
@@ -51,7 +49,7 @@ const Detail = () => {
             </Avatar>
           </div>
           <div className="playlist overflow-y-auto max-h-[80vh]">
-            <h2 className="font-medium text-lg mb-4">Playlist</h2>
+            <h2 className="font-medium text-base md:text-lg mb-4">Playlist</h2>
             {courseData.videos.map((video: any, index: any) => (
               <Card
                 className={`mb-2 ${
@@ -62,27 +60,28 @@ const Detail = () => {
                   window.scrollTo(0, 0);
                 }}
               >
-                <h2 className="font-medium cursor-pointer">{video.title}</h2>
+                <h2 className="font-medium cursor-pointer text-base">{video.title}</h2>
               </Card>
             ))}
           </div>
         </Card>
-        <div className="col-span-9 bg-white rounded">
-          {
-            hasWindow &&
+        <div className="col-span-9 bg-white rounded aspect-square">
+          {hasWindow && (
             <ReactPlayer
-            url={activeVideo.link}
-            width="100%"
-            height="70%"
-            progressInterval={1000}
-            key={activeVideo.link}
-            style={{
-              borderRadius: "0.5rem",
-            }}
+              url={activeVideo.link}
+              width="100%"
+              height="70%"
+              className="aspect-square"
+              controls
+              progressInterval={1000}
+              key={activeVideo.link}
+              style={{
+                borderRadius: "0.5rem",
+              }}
             />
-          }
+          )}
           <div className="details mt-4">
-            <h3 className="text-xl font-semibold">{activeVideo?.title}</h3>
+            <h3 className="text-base md:text-xl font-semibold">{activeVideo?.title}</h3>
           </div>
         </div>
       </div>
