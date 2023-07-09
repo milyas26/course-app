@@ -36,6 +36,13 @@ export default function NavbarApp() {
         >
           About Us
         </Navbar.Link>
+        <Navbar.Link
+          active={path.includes("/contact-us")}
+          className="text-base font-semibold cursor-pointer"
+          onClick={() => router.push("/contact-us")}
+        >
+          Contact Us
+        </Navbar.Link>
       </Navbar.Collapse>
     </Navbar>
   );

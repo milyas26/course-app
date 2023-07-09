@@ -10,7 +10,6 @@ const ReactPlayer = dynamic(() => import("react-player/lazy"), { ssr: false });
 const Detail = () => {
   const { course, detail } = useParams();
   const [activeVideo, setActiveVideo] = React.useState<any>(null);
-  const [showPlayer, setShowPlayer] = React.useState(false);
   const coursesList: any = videoData.courses_list?.find(
     (item) => item.slug === `courses/${course}`
   );
