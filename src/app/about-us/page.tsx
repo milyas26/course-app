@@ -11,8 +11,7 @@ const AboutUs = () => {
         accessible learning option to help you thrive in the digital era.
       </p>
       <p className="mb-2">
-        Our course cover a wide range of topics, including IT & Software,
-        Photography & Video, Design, and Marketing. You can access all our
+        Our course cover a wide range of topics in IT & Software. You can access all our
         course online, anytime, and anywhere.
       </p>
       <p className="mb-2">
