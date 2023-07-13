@@ -597,7 +597,183 @@
       "name": "UI/UX Designer",
       "slug": "courses/ui-ux-designer",
       "description": "Learn to design beautiful user interfaces and unlock limitless possibilities. Dive into the world of UI/UX design, design stunning websites and apps, and create immersive user experiences with our UI/UX Designer courses.",
-      "courses": []
+      "courses": [
+        {
+          "id": 1,
+          "title": "Tutorial Figma 2023",
+          "slug": "/courses/ui-ux-designer/tutorial-figma-2023",
+          "youtuber": "BuildWithAngga",
+          "thumbnail": "https://i.ytimg.com/vi/k7cbBb2Ju5E/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/C3C2WTrJ6nQerQcpGBT-O-wrBR_fgClA6ft_HQlPtskKKliC5_OvC0zxD5i3MFf_kkMKoFqYkg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "1) Mengenal Software Figma Untuk Designer | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=k7cbBb2Ju5E&list=PLkaFTR_oezJ7txRw0AKPgqnmMAfO67cmT&index=1&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 2,
+              "title": "2) Membuat Projek Design Pertama | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=uvpkJnYHOQU&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 3,
+              "title": "3) Mempelajari Layers & Group | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=oimb79wuO18&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 4,
+              "title": "4) Membuat UI Component Dengan Basic Shapes | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=2fFtOUYG2RU&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 5,
+              "title": "5) Text Properties | Tutorial UI/UX Design Figma 2023",
+              "link": "https://www.youtube.com/watch?v=vHEntLdrjXY&ab_channel=BuildWithAngga"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "App Design",
+          "slug": "/courses/ui-ux-designer/app-design",
+          "youtuber": "UX World",
+          "thumbnail": "https://i.ytimg.com/vi/vQtvW62gTU8/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaTChUviHJYKI93MsKkne1RAlEj3ZjFGczykMAIP=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Online Banking Mobile App Design in Figma | Figma Tutorial",
+              "link": "https://www.youtube.com/watch?v=vQtvW62gTU8&list=PLvWr3S1d3hmWraAdJtLmtXb7ieHuMTnDN&ab_channel=UXWorld"
+            },
+            {
+              "id": 2,
+              "title": "Food Ordering Mobile App Design in Figma | Figma Tutorial",
+              "link": "https://www.youtube.com/watch?v=esbdyyEvkxw&ab_channel=UXWorld"
+            },
+            {
+              "id": 3,
+              "title": "E-Commerce Mobile App Design in Figma | Figma Design and Prototype Tutorial",
+              "link": "https://www.youtube.com/watch?v=KCHwo3_Rn3g&ab_channel=UXWorld"
+            },
+            {
+              "id": 4,
+              "title": "How to Design Mobile Travel App in Figma | Figma Tutorial",
+              "link": "https://www.youtube.com/watch?v=yu1dXoyxrA8&ab_channel=UXWorld"
+            },
+            {
+              "id": 5,
+              "title": "Designing a Calculator in Figma | Figma App Design Tutorial",
+              "link": "https://www.youtube.com/watch?v=u_jPLCZKgX4&ab_channel=UXWorld"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "UI dan UX Design",
+          "slug": "/courses/ui-ux-designer/ui-ux-design",
+          "youtuber": "Creative Academy Indonesia",
+          "thumbnail": "https://i.ytimg.com/vi/nYtp0KL-c3I/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/ytc/AOPolaSappKqg9mFjFvol6OzRRg4HVKPAYjAr4Jvz6MO=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Proses UI UX Design || Tutorial Membuat Website E-COMMERCE",
+              "link": "https://www.youtube.com/watch?v=nYtp0KL-c3I&list=PL9E3AWZAtxc4_Guu7ABfpqN9cdW6U_5if&ab_channel=CreativeAcademyIndonesia"
+            },
+            {
+              "id": 2,
+              "title": "Membuat Customer Journey - User Flow - Proses UI UX Design || Tutorial Membuat Website E-Commerce",
+              "link": "https://www.youtube.com/watch?v=Fuhv6QW5HHA&ab_channel=CreativeAcademyIndonesia"
+            },
+            {
+              "id": 3,
+              "title": "Tutorial Membuat Wireframe Adobe XD - UI UX Design || Membuat Website E-Commerce PART 2",
+              "link": "https://www.youtube.com/watch?v=2Bi5Is35oWM&ab_channel=CreativeAcademyIndonesia"
+            },
+            {
+              "id": 4,
+              "title": "Tutorial Membuat Wireframe Adobe XD - UI UX Design || Membuat Website E-Commerce",
+              "link": "https://www.youtube.com/watch?v=B69W_K00PJ4&ab_channel=CreativeAcademyIndonesia"
+            },
+            {
+              "id": 5,
+              "title": "Tutorial Membuat Wireframe Single Product Adobe XD - UI UX Design || Membuat Website E-Commerce",
+              "link": "https://www.youtube.com/watch?v=Mzg5EqXNG54&ab_channel=CreativeAcademyIndonesia"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Web Design Tutorial (UI &UX)",
+          "slug": "/courses/ui-ux-designer/web-design-tutorial-ui-ux",
+          "youtuber": "developedbyed",
+          "thumbnail": "https://i.ytimg.com/vi/Ty6vdn1cYdU/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/JfcqVinxsIc8dYsPIrp6IBDRMBb420BqVd2bzS9wqcMWBTzmnjUJ74Q0VByY1gUA8p-AYZQzxQ=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "UI Design With Animations Tutorial",
+              "link": "https://www.youtube.com/watch?v=Ty6vdn1cYdU&list=PLDyQo7g0_nsWnzPqYMqoJpm08ULrkiIbt&ab_channel=developedbyed"
+            },
+            {
+              "id": 2,
+              "title": "I Design A Website In 20 Minutes",
+              "link": "https://www.youtube.com/watch?v=BaJZC3zjHBQ&ab_channel=developedbyed"
+            },
+            {
+              "id": 3,
+              "title": "Beautiful Dashboard UI Design - Adobe XD UI Design Tutorial",
+              "link": "https://www.youtube.com/watch?v=eER94Oz43I0&ab_channel=developedbyed"
+            },
+            {
+              "id": 4,
+              "title": "Create Awesome Animations In Adobe XD Tutorial",
+              "link": "https://www.youtube.com/watch?v=OGDbPryy9O0&ab_channel=developedbyed"
+            },
+            {
+              "id": 5,
+              "title": "Awesome Glass UI Design Tutorial",
+              "link": "https://www.youtube.com/watch?v=hnHFMLx4ZhU&ab_channel=developedbyed"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Tutorial Figma 2023 Indonesia",
+          "slug": "/courses/ui-ux-designer/tutoril-figma-2023-indonesia",
+          "youtuber": "BuildWithAngga",
+          "thumbnail": "https://i.ytimg.com/vi/ck-x84uSgxg/sddefault.jpg",
+          "avatar": "https://yt3.ggpht.com/C3C2WTrJ6nQerQcpGBT-O-wrBR_fgClA6ft_HQlPtskKKliC5_OvC0zxD5i3MFf_kkMKoFqYkg=s88-c-k-c0x00ffffff-no-rj",
+          "videos": [
+            {
+              "id": 1,
+              "title": "1) Mengenal Software Figma Untuk Designer | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=k7cbBb2Ju5E&list=PLkaFTR_oezJ7txRw0AKPgqnmMAfO67cmT&index=1&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 2,
+              "title": "2) Membuat Projek Design Pertama | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=uvpkJnYHOQU&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 3,
+              "title": "3) Mempelajari Layers & Group | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=oimb79wuO18&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 4,
+              "title": "4) Membuat UI Component Dengan Basic Shapes | Tutorial Figma 2023",
+              "link": "https://www.youtube.com/watch?v=2fFtOUYG2RU&ab_channel=BuildWithAngga"
+            },
+            {
+              "id": 5,
+              "title": "5) Text Properties | Tutorial UI/UX Design Figma 2023",
+              "link": "https://www.youtube.com/watch?v=vHEntLdrjXY&ab_channel=BuildWithAngga"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 5,
@@ -780,6 +956,22 @@
       "youtuber": "The Net Ninja",
       "thumbnail": "https://i.ytimg.com/vi/j942wKiXFu8/sddefault.jpg",
       "avatar": "https://yt3.ggpht.com/ytc/AOPolaRZ_YQDWsp_xli4C-dj0ArYih76vbn_Ck-wg8Dz8w=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 5,
+      "title": "Tutorial Figma 2023 Indonesia",
+      "slug": "/courses/ui-ux-designer/tutoril-figma-2023-indonesia",
+      "youtuber": "BuildWithAngga",
+      "thumbnail": "https://i.ytimg.com/vi/ck-x84uSgxg/sddefault.jpg",
+      "avatar": "https://yt3.ggpht.com/C3C2WTrJ6nQerQcpGBT-O-wrBR_fgClA6ft_HQlPtskKKliC5_OvC0zxD5i3MFf_kkMKoFqYkg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Concept Explained",
+      "slug": "/courses/devops-engineer/dev-ops-concept-explained",
+      "youtuber": "TechWorld with Nana",
+      "thumbnail": "https://i.ytimg.com/vi/0yWAtQ6wYNM/sddefault.jpg",
+      "avatar": "https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
