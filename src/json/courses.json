@@ -599,41 +599,6 @@
       "description": "Learn to design beautiful user interfaces and unlock limitless possibilities. Dive into the world of UI/UX design, design stunning websites and apps, and create immersive user experiences with our UI/UX Designer courses.",
       "courses": [
         {
-          "id": 1,
-          "title": "Tutorial Figma 2023",
-          "slug": "/courses/ui-ux-designer/tutorial-figma-2023",
-          "youtuber": "BuildWithAngga",
-          "thumbnail": "https://i.ytimg.com/vi/k7cbBb2Ju5E/sddefault.jpg",
-          "avatar": "https://yt3.ggpht.com/C3C2WTrJ6nQerQcpGBT-O-wrBR_fgClA6ft_HQlPtskKKliC5_OvC0zxD5i3MFf_kkMKoFqYkg=s88-c-k-c0x00ffffff-no-rj",
-          "videos": [
-            {
-              "id": 1,
-              "title": "1) Mengenal Software Figma Untuk Designer | Tutorial Figma 2023",
-              "link": "https://www.youtube.com/watch?v=k7cbBb2Ju5E&list=PLkaFTR_oezJ7txRw0AKPgqnmMAfO67cmT&index=1&ab_channel=BuildWithAngga"
-            },
-            {
-              "id": 2,
-              "title": "2) Membuat Projek Design Pertama | Tutorial Figma 2023",
-              "link": "https://www.youtube.com/watch?v=uvpkJnYHOQU&ab_channel=BuildWithAngga"
-            },
-            {
-              "id": 3,
-              "title": "3) Mempelajari Layers & Group | Tutorial Figma 2023",
-              "link": "https://www.youtube.com/watch?v=oimb79wuO18&ab_channel=BuildWithAngga"
-            },
-            {
-              "id": 4,
-              "title": "4) Membuat UI Component Dengan Basic Shapes | Tutorial Figma 2023",
-              "link": "https://www.youtube.com/watch?v=2fFtOUYG2RU&ab_channel=BuildWithAngga"
-            },
-            {
-              "id": 5,
-              "title": "5) Text Properties | Tutorial UI/UX Design Figma 2023",
-              "link": "https://www.youtube.com/watch?v=vHEntLdrjXY&ab_channel=BuildWithAngga"
-            }
-          ]
-        },
-        {
           "id": 2,
           "title": "App Design",
           "slug": "/courses/ui-ux-designer/app-design",
